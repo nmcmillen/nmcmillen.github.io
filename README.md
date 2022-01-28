@@ -1,6 +1,6 @@
 # nmcmillen.github.io
-Step into my journey of becoming a web developer.
+## Future location of a full stack web developer.
 
-https://nmcmillen.github.io/blog
+View [My Blog](https://nmcmillen.github.io/blog) for progress updates.
 
-![DSC04588](https://user-images.githubusercontent.com/91640914/151584202-4d4c9a17-5201-4ece-a865-afa62356c2e7.JPG)
+![Nick Portrait](https://user-images.githubusercontent.com/91640914/151585833-c2baedf3-d098-417a-a603-d007fdf3583b.JPG)
