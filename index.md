@@ -9,6 +9,6 @@ Our first week has already provided some new challenges, especially getting used
 
 I'll tee up a fun fact for the first thing to learn about me. Did you know, I have actually traveled to more countries than states? I love to travel and have been incredibly fortunate enough to see a few different corners of the world. I get a bit restless when I'm home for more than a few months without having gone somehwere new and am always in search of the next adventure.
 
-*![DSC04588](https://user-images.githubusercontent.com/91640914/151488429-e4553d21-3d6f-4991-9585-a013332a87cc.JPG)
-*![75210330_948520221463_3016323156517322752_n](https://user-images.githubusercontent.com/91640914/151491170-c35f6705-9680-48b3-865c-36fa237420c0.jpg)
-*![101816258_10208414834283682_4501997451976382706_n](https://user-images.githubusercontent.com/91640914/151491597-33917e9d-72a1-4c36-b051-0a8d265159eb.jpg)
+![DSC04588](https://user-images.githubusercontent.com/91640914/151488429-e4553d21-3d6f-4991-9585-a013332a87cc.JPG)
+![75210330_948520221463_3016323156517322752_n](https://user-images.githubusercontent.com/91640914/151491170-c35f6705-9680-48b3-865c-36fa237420c0.jpg)
+![101816258_10208414834283682_4501997451976382706_n](https://user-images.githubusercontent.com/91640914/151491597-33917e9d-72a1-4c36-b051-0a8d265159eb.jpg)
