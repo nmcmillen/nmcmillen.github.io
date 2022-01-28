@@ -8,7 +8,7 @@ This first week I started the Awesome Inc. Bootcamp and began my journey to beco
 Our first week has already provided some new challenges, especially getting used to the ins-and-outs of github. I initially took the Fall *Intro to Web* class where I learned bits and pieces of HTML, CSS, and Javascript just to get my feet wet. Now, I'm excited to start building on that foundation to become a full developer while building relationships and working as a team while in the bootcamp with those who have the same goals as I do. Hope you're all strapped in for the roller coaster ride!
 
 - [x] Complete Intro to Web
-- [x] Sign up for Awesome Inc Bootcamp
+- [x] Start Awesome Inc Bootcamp
 - [ ] Become full stack web developer
 
 I'll tee up a fun fact for the first thing to learn about me. Did you know, I have actually traveled to more countries than states? I love to travel and have been incredibly fortunate enough to see a few different corners of the world. I get a bit restless when I'm home for more than a few months without having gone somehwere new and am always in search of the next adventure.
