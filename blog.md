@@ -1,6 +1,6 @@
 # Nick's Personal Blog
 
-##Two Weeks In (2/3/22)
+## Two Weeks In (2/3/22)
 
 **What is something you wish you could do but currently do not have the coding skills to accomplish?**
 While I know we have not touched on it much yet, Javascript. I feel I understand HTML and CSS enough to be able to navigate my way through creating something that looks reasonably well, but I am really wanting to bring more function into what I can make with HTML and CSS.
