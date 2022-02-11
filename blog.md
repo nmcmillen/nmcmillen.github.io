@@ -1,5 +1,5 @@
 # Nick's Personal Blog
-{Phone Home}(https://nmcmillen.github.io/)
+[Phone Home](https://nmcmillen.github.io/)
 
 ## Two Weeks In (2/3/22)
 
