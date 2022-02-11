@@ -1,6 +1,14 @@
 # Nick's Personal Blog
 [Phone Home](https://nmcmillen.github.io/)
 
+## It’s All Coming Together (2/11/22)
+
+Week three is done and dusted. A bit more work than the first two and the first time pulling an entire project together using HTML, CSS, and Javascript without any hand holding. Our task was to build a simple alarm clock which was a little nerve wracking at first, but after moving through things piece by piece and finally getting items to work, it was also the most gratifying week so far.
+
+We’ve worked on HTML, CSS, and Javascript mostly on their own with little crossover, but never altogether at once. This blog, while written in markdown, populates in HTML with a hint of CSS and allows me to convey a story, pictures, or maybe even a GIF or two. Working through all three elements though, you start to see how many different options there are to produce the same results. HTML being more of your basic formatting like trying to put the edges of a puzzle together first, CSS is putting what pieces you can together to look like the picture, and finally placing all the pieces neatly together with Javascript to complete the whole puzzle. Javascript continues to baffle me in how powerful and intricate it can be. It’s really the motor behind everything and provides a lot of the user interactivity where you can create or modify designs, make calculations, kick off events, sounds, you name it, it can do it. I take a liking to CSS since I enjoy the design side of things. Every website or app I use, I pay close attention to how it feels and works from a user standpoint. Does it catch the eye? Is it easy to navigate? Does it pull me in to want to use the site?
+
+At the end of the day, I’m simply impressed at all of the different paths to a destination and how much of an art programming can be. I’m just excited to dive deeper into it and see where the journey takes me.
+
 ## Two Weeks In (2/3/22)
 
 **What is something you wish you could do but currently do not have the coding skills to accomplish?**
